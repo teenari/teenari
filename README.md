@@ -1,10 +1,3 @@
-### Hi there 👋
+### Hey there...
 
-[![Stats](https://github-readme-stats.codestackr.vercel.app/api?username=teenari&show_icons=true&theme=synthwave)]()
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teenari&layout=compact)]()
-
----
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=teenari&repo=wbd)](https://github.com/teenari/wbd)
+[You expected to have a lot of repos, why wouldn't you but I've sadly privated all my repos due to a new account, click here to go to it.](https://github.com/tectors)
